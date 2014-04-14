@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database name="propel" defaultIdMethod="native" package="lib.model">
+
+  <table name="jobeet_category">
+    <column name="id" type="integer" required="true" primaryKey="true" autoIncrement="true" />
+    <column name="name" type="varchar" required="true" size="255" />
+    <unique>
+      <unique-column name="name" />
+    </unique>
+  </table>
+
+  <table name="jobeet_job">
+    <column name="id" type="integer" required="true" primaryKey="true" autoIncrement="true" />
+    <column name="category_id" type="integer" required="true" />
+    <foreign-key foreignTable="jobeet_category">
+      <reference local="category_id" foreign="id" />
+    </foreign-key>
+    <column name="type" type="varchar" size="255" />
+    <column name="company" type="varchar" required="true" size="255" />
+    <column name="logo" type="varchar" size="255" />
+    <column name="url" type="varchar" size="255" />
+    <column name="position" type="varchar" required="true" size="255" />
+    <column name="location" type="varchar" required="true" size="255" />
+    <column name="description" type="longvarchar" required="true" />
+    <column name="how_to_apply" type="longvarchar" required="true" />
+    <column name="token" type="varchar" required="true" size="255" />
+    <unique>
+      <unique-column name="token" />
+    </unique>
+    <column name="is_public" type="boolean" required="true" default="1" />
+    <column name="is_activated" type="boolean" required="true" default="0" />
+    <column name="email" type="varchar" required="true" size="255" />
+    <column name="expires_at" type="timestamp" required="true" />
+    <column name="created_at" type="timestamp" />
+    <column name="updated_at" type="timestamp" />
+  </table>
+
+  <table name="jobeet_affiliate">
+    <column name="id" type="integer" required="true" primaryKey="true" autoIncrement="true" />
+    <column name="url" type="varchar" required="true" size="255" />
+    <column name="email" type="varchar" required="true" size="255" />
+    <unique>
+      <unique-column name="email" />
+    </unique>
+    <column name="token" type="varchar" required="true" size="255" />
+    <column name="is_active" type="boolean" required="true" default="0" />
+    <column name="created_at" type="timestamp" />
+  </table>
+
+  <table name="jobeet_category_affiliate">
+    <column name="category_id" type="integer" required="true" primaryKey="true" />
+    <foreign-key foreignTable="jobeet_category" onDelete="cascade">
+      <reference local="category_id" foreign="id" />
+    </foreign-key>
+    <column name="affiliate_id" type="integer" required="true" primaryKey="true" />
+    <foreign-key foreignTable="jobeet_affiliate" onDelete="cascade">
+      <reference local="affiliate_id" foreign="id" />
+    </foreign-key>
+  </table>
+
+</database>
