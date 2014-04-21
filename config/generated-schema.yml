@@ -1,0 +1,38 @@
+propel:
+  _attributes:
+    defaultIdMethod: native
+    package: lib.model
+  jobeet_category:
+    id: { type: integer, required: true, primaryKey: true, autoIncrement: true }
+    name: { type: varchar, required: true, size: '255' }
+    _uniques: { '': [name] }
+  jobeet_job:
+    id: { type: integer, required: true, primaryKey: true, autoIncrement: true }
+    category_id: { type: integer, required: true, foreignTable: jobeet_category, foreignReference: id }
+    type: { type: varchar, size: '255' }
+    company: { type: varchar, required: true, size: '255' }
+    logo: { type: varchar, size: '255' }
+    url: { type: varchar, size: '255' }
+    position: { type: varchar, required: true, size: '255' }
+    location: { type: varchar, required: true, size: '255' }
+    description: { type: longvarchar, required: true }
+    how_to_apply: { type: longvarchar, required: true }
+    token: { type: varchar, required: true, size: '255' }
+    is_public: { type: boolean, required: true, default: '1' }
+    is_activated: { type: boolean, required: true, default: '0' }
+    email: { type: varchar, required: true, size: '255' }
+    expires_at: { type: timestamp, required: true }
+    created_at: { type: timestamp }
+    updated_at: { type: timestamp }
+    _uniques: { '': [token] }
+  jobeet_affiliate:
+    id: { type: integer, required: true, primaryKey: true, autoIncrement: true }
+    url: { type: varchar, required: true, size: '255' }
+    email: { type: varchar, required: true, size: '255' }
+    token: { type: varchar, required: true, size: '255' }
+    is_active: { type: boolean, required: true, default: '0' }
+    created_at: { type: timestamp }
+    _uniques: { '': [email] }
+  jobeet_category_affiliate:
+    category_id: { type: integer, required: true, primaryKey: true, foreignTable: jobeet_category, foreignReference: id, onDelete: cascade }
+    affiliate_id: { type: integer, required: true, primaryKey: true, foreignTable: jobeet_affiliate, foreignReference: id, onDelete: cascade }

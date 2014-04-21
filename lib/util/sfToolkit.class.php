@@ -359,7 +359,13 @@ class sfToolkit
    */
   public static function pregtr($search, $replacePairs)
   {
-    return preg_replace(array_keys($replacePairs), array_values($replacePairs), $search);
+    $newReplacePairs = array_combine(array_map(function($key) {
+      return rtrim($key, 'e');
+    }, array_keys($replacePairs)), $replacePairs);
+
+    return preg_replace_callback(array_keys($newReplacePairs), function($matches) use ($newReplacePairs){
+      array_values($newReplacePairs);
+    }, $search);
   }
 
   /**

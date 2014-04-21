@@ -1,0 +1,72 @@
+Apr 21 15:01:35 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Apr 21 15:01:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Apr 21 15:01:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Apr 21 15:01:36 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Apr 21 15:01:36 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/indexSuccess.php"
+Apr 21 15:01:36 symfony [info] {sfPHPView} Decorate content with "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:01:36 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:01:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Apr 21 15:01:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Apr 21 15:01:36 symfony [info] {sfWebResponse} Send content (31487 o)
+Apr 21 15:02:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Apr 21 15:02:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Apr 21 15:02:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Apr 21 15:02:37 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Apr 21 15:02:37 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/indexSuccess.php"
+Apr 21 15:02:37 symfony [info] {sfPHPView} Decorate content with "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:02:37 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:02:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Apr 21 15:02:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Apr 21 15:02:37 symfony [info] {sfWebResponse} Send content (31422 o)
+Apr 21 15:02:40 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Apr 21 15:02:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Apr 21 15:02:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Apr 21 15:02:40 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Apr 21 15:02:40 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/indexSuccess.php"
+Apr 21 15:02:40 symfony [info] {sfPHPView} Decorate content with "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:02:40 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:02:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Apr 21 15:02:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Apr 21 15:02:40 symfony [info] {sfWebResponse} Send content (31486 o)
+Apr 21 15:03:16 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Apr 21 15:03:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Apr 21 15:03:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Apr 21 15:03:17 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Apr 21 15:03:17 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/indexSuccess.php"
+Apr 21 15:03:17 symfony [info] {sfPHPView} Decorate content with "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:03:17 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:03:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Apr 21 15:03:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Apr 21 15:03:17 symfony [info] {sfWebResponse} Send content (31486 o)
+Apr 21 15:03:26 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Apr 21 15:03:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Apr 21 15:03:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Apr 21 15:03:27 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Apr 21 15:03:27 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/indexSuccess.php"
+Apr 21 15:03:27 symfony [info] {sfPHPView} Decorate content with "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:03:27 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:03:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Apr 21 15:03:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Apr 21 15:03:27 symfony [info] {sfWebResponse} Send content (31486 o)
+Apr 21 15:03:33 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Apr 21 15:03:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Apr 21 15:03:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Apr 21 15:03:33 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Apr 21 15:03:33 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/indexSuccess.php"
+Apr 21 15:03:33 symfony [info] {sfPHPView} Decorate content with "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:03:33 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:03:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Apr 21 15:03:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Apr 21 15:03:34 symfony [info] {sfWebResponse} Send content (31486 o)
+Apr 21 15:54:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Apr 21 15:54:07 symfony [info] {myUser} Automatic user logout due to timeout
+Apr 21 15:54:07 symfony [info] {myUser} User is not authenticated
+Apr 21 15:54:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Apr 21 15:54:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Apr 21 15:54:07 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Apr 21 15:54:07 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/indexSuccess.php"
+Apr 21 15:54:07 symfony [info] {sfPHPView} Decorate content with "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:54:07 symfony [info] {sfPHPView} Render "/vagrant/lib/controller/default/templates/defaultLayout.php"
+Apr 21 15:54:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Apr 21 15:54:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Apr 21 15:54:07 symfony [info] {sfWebResponse} Send content (31511 o)
