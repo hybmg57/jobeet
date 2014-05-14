@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sfToolkit.class.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sfToolkit.class.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/util/sfToolkit.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="367" column="16" selection-start="9432" selection-end="9432" vertical-scroll-proportion="0.63190186" vertical-offset="5914" max-vertical-offset="10472">
+            <state line="361" column="3" selection-start="9128" selection-end="9128" vertical-scroll-proportion="-0.0" vertical-offset="6137" max-vertical-offset="10574">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frontend_dev.log" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/frontend_dev.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="24" selection-start="10190" selection-end="10190" vertical-scroll-proportion="0.0" vertical-offset="1410" max-vertical-offset="1870">
               <folding />
             </state>
           </provider>
@@ -35,7 +44,7 @@
       <file leaf-file-name="testing.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="493">
+            <state line="4" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
@@ -44,9 +53,30 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="1" selection-start="551" selection-end="552" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="901">
+            <state line="35" column="1" selection-start="551" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="901">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.17146975" vertical-offset="0" max-vertical-offset="694">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vagrantfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vagrantfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="0" selection-start="2134" selection-end="2134" vertical-scroll-proportion="-23.72" vertical-offset="274" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -66,17 +96,18 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/schema.yml" />
         <option value="$PROJECT_DIR$/lib/command/sfCommandManager.class.php" />
-        <option value="$PROJECT_DIR$/Vagrantfile" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/config/doctrine/schema.yml" />
-        <option value="$PROJECT_DIR$/web/index.php" />
         <option value="$PROJECT_DIR$/config/databases.yml" />
         <option value="$PROJECT_DIR$/config/generated-schema.xml" />
         <option value="$PROJECT_DIR$/config/properties.ini" />
         <option value="$PROJECT_DIR$/testing.php" />
-        <option value="$PROJECT_DIR$/lib/util/sfToolkit.class.php" />
         <option value="$PROJECT_DIR$/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/AbstractPropelDataModelTask.php" />
         <option value="$PROJECT_DIR$/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/AbstractPropelDataModelTask.php" />
+        <option value="$PROJECT_DIR$/log/frontend_dev.log" />
+        <option value="$PROJECT_DIR$/lib/util/sfToolkit.class.php" />
+        <option value="$PROJECT_DIR$/Vagrantfile" />
+        <option value="$PROJECT_DIR$/web/index.php" />
       </list>
     </option>
   </component>
@@ -113,6 +144,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -243,7 +275,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,8 +284,8 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="SearchEverywhereHistory" value="database.xsl&#10;lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/AbstractPropelDataModelTask.php&#10;abstractprop&#10;abstractpropel&#10;attributes&#10;pdotask&#10;s&#10;sftoolkit&#10;sqld.map&#10;sqldb.map&#10;doctrin&#10;:&#10;sfcommandmana&#10;generated-&#10;schema&#10;frontend_dev" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../secureaccountservices" />
+    <property name="SearchEverywhereHistory" value="sf&#10;database.xsl&#10;lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/AbstractPropelDataModelTask.php&#10;abstractprop&#10;abstractpropel&#10;attributes&#10;pdotask&#10;s&#10;sftoolkit&#10;sqld.map&#10;sqldb.map&#10;doctrin&#10;:&#10;sfcommandmana&#10;generated-&#10;schema&#10;frontend_dev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../symfony_new" />
     <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.testing.php">
@@ -290,6 +321,10 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="XSLT" factoryName="XSLT">
       <option name="myOutputFile" />
       <option name="myOpenOutputFile" value="false" />
@@ -304,10 +339,6 @@
       <OutputType value="CONSOLE" save-to-file="false" />
       <FileType name="XML" />
       <JdkChoice value="FROM_MODULE" />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
@@ -360,15 +391,13 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47587132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34852546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3994638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328877" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -376,14 +405,16 @@
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="DatabaseBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24839538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3243968" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3230563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328877" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -409,16 +440,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.php">
@@ -430,16 +457,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/command/sfCommandManager.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="5" selection-start="3889" selection-end="3889" vertical-scroll-proportion="0.0" vertical-offset="2482" max-vertical-offset="6579">
-          <folding />
-        </state>
+        <state line="146" column="5" selection-start="3889" selection-end="3889" vertical-scroll-proportion="0.0" vertical-offset="2482" max-vertical-offset="6579" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/lib/myUser.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Vagrantfile">
@@ -459,16 +482,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.php">
@@ -480,16 +499,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/command/sfCommandManager.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="5" selection-start="3889" selection-end="3889" vertical-scroll-proportion="0.0" vertical-offset="2482" max-vertical-offset="6579">
-          <folding />
-        </state>
+        <state line="146" column="5" selection-start="3889" selection-end="3889" vertical-scroll-proportion="0.0" vertical-offset="2482" max-vertical-offset="6579" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/lib/myUser.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Vagrantfile">
@@ -559,17 +574,7 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/pcre.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="232" column="9" selection-start="7868" selection-end="7868" vertical-scroll-proportion="0.35338345" vertical-offset="3803" max-vertical-offset="8636">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vagrantfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="88" selection-start="1594" selection-end="1594" vertical-scroll-proportion="-11.48" vertical-offset="325" max-vertical-offset="969" />
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
+        <state line="232" column="9" selection-start="7868" selection-end="7868" vertical-scroll-proportion="0.35338345" vertical-offset="3803" max-vertical-offset="8636" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/plugins/sfPropelPlugin/test/functional/fixtures/data/sql/sqldb.map">
@@ -582,18 +587,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="382" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/frontend/config/app.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="382">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/pdo/PDOTask.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="153" column="14" selection-start="4531" selection-end="4531" vertical-scroll-proportion="0.33146068" vertical-offset="2177" max-vertical-offset="3485">
-          <folding />
-        </state>
+        <state line="153" column="14" selection-start="4531" selection-end="4531" vertical-scroll-proportion="0.33146068" vertical-offset="2177" max-vertical-offset="3485" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/schema.xml">
@@ -603,32 +599,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/databases.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="20" selection-start="474" selection-end="474" vertical-scroll-proportion="0.5392954" vertical-offset="73" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/generated-schema.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/XMLElement.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="12" selection-start="2988" selection-end="2988" vertical-scroll-proportion="0.9044944" vertical-offset="919" max-vertical-offset="3060">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/frontend_dev.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="6030" selection-end="6030" vertical-scroll-proportion="0.86649215" vertical-offset="689" max-vertical-offset="1122">
-          <folding />
-        </state>
+        <state line="91" column="12" selection-start="2988" selection-end="2988" vertical-scroll-proportion="0.9044944" vertical-offset="919" max-vertical-offset="3060" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/generated-schema.xml">
@@ -638,6 +616,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/config/frontendConfiguration.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="356" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/schema.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="28" selection-start="1356" selection-end="1356" vertical-scroll-proportion="0.6439791" vertical-offset="298" max-vertical-offset="680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.67493796" vertical-offset="0" max-vertical-offset="403" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/lib/myUser.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/propel.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="34" selection-start="590" selection-end="590" vertical-scroll-proportion="-0.7717122" vertical-offset="617" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/properties.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="54" selection-end="54" vertical-scroll-proportion="0.12655087" vertical-offset="0" max-vertical-offset="403" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/command/sfCommandManager.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="5" selection-start="3889" selection-end="3889" vertical-scroll-proportion="1.6233422" vertical-offset="1768" max-vertical-offset="6477" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.63129973" vertical-offset="0" max-vertical-offset="377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="551" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="688" column="9" selection-start="20190" selection-end="20190" vertical-scroll-proportion="0.35176992" vertical-offset="11537" max-vertical-offset="19142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/resources/xsl/database.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5066" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/AbstractPropelDataModelTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="450" column="12" selection-start="12233" selection-end="12272" vertical-scroll-proportion="0.8006135" vertical-offset="7083" max-vertical-offset="10183" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/AbstractPropelDataModelTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="440" column="39" selection-start="11682" selection-end="11682" vertical-scroll-proportion="0.38343558" vertical-offset="7049" max-vertical-offset="10183" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/sfToolkit.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="361" column="3" selection-start="9128" selection-end="9128" vertical-scroll-proportion="0.0" vertical-offset="6137" max-vertical-offset="10574">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/frontend_dev.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="24" selection-start="10190" selection-end="10190" vertical-scroll-proportion="0.0" vertical-offset="1410" max-vertical-offset="1870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/config/app.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="382" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/config/settings.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
@@ -645,114 +716,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/frontend/config/frontendConfiguration.class.php">
+    <entry file="file://$PROJECT_DIR$/Vagrantfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="356">
+        <state line="51" column="0" selection-start="2134" selection-end="2134" vertical-scroll-proportion="-23.72" vertical-offset="274" max-vertical-offset="969">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/schema.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="28" selection-start="1356" selection-end="1356" vertical-scroll-proportion="0.6439791" vertical-offset="298" max-vertical-offset="680">
-          <folding />
-        </state>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/frontend/config/routing.yml">
+    <entry file="file://$PROJECT_DIR$/config/databases.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.67493796" vertical-offset="0" max-vertical-offset="403">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/frontend/lib/myUser.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="482">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/propel.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="34" selection-start="590" selection-end="590" vertical-scroll-proportion="-0.7717122" vertical-offset="617" max-vertical-offset="1020">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/properties.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="54" selection-end="54" vertical-scroll-proportion="0.12655087" vertical-offset="0" max-vertical-offset="403">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/command/sfCommandManager.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="5" selection-start="3889" selection-end="3889" vertical-scroll-proportion="1.6233422" vertical-offset="1768" max-vertical-offset="6477">
+        <state line="20" column="0" selection-start="539" selection-end="539" vertical-scroll-proportion="0.48090523" vertical-offset="0" max-vertical-offset="707">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="83" selection-start="169" selection-end="169" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.63129973" vertical-offset="0" max-vertical-offset="377">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="551" selection-end="552" vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="901">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="688" column="9" selection-start="20190" selection-end="20190" vertical-scroll-proportion="0.35176992" vertical-offset="11537" max-vertical-offset="19142">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/resources/xsl/database.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5066">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/AbstractPropelDataModelTask.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="450" column="12" selection-start="12233" selection-end="12272" vertical-scroll-proportion="0.8006135" vertical-offset="7083" max-vertical-offset="10183">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/AbstractPropelDataModelTask.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="440" column="39" selection-start="11682" selection-end="11682" vertical-scroll-proportion="0.38343558" vertical-offset="7049" max-vertical-offset="10183">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/util/sfToolkit.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="367" column="16" selection-start="9432" selection-end="9432" vertical-scroll-proportion="0.63190186" vertical-offset="5914" max-vertical-offset="10472">
+        <state line="7" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.17146975" vertical-offset="0" max-vertical-offset="694">
           <folding />
         </state>
       </provider>
